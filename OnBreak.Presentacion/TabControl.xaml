@@ -1,0 +1,67 @@
+﻿<Controls:MetroWindow x:Class="OnBreak.Presentacion.TabControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:OnBreak.Presentacion"
+        mc:Ignorable="d"
+        Title="Administracion de Clientes" Height="450" Width="800">
+    <Grid x:Name="Grid2" Background="White">
+        <Controls:MetroTabControl Name="TCMain">
+            <Controls:MetroTabItem Header="Registrar">
+                <Grid x:Name="Grid2_2">
+
+                    <TextBox x:Name="txtRut" Controls:TextBoxHelper.Watermark="Rut" HorizontalAlignment="Left" Height="23" Margin="94,59,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txtRazon_social" Controls:TextBoxHelper.Watermark="Razon Social" HorizontalAlignment="Left" Height="23" Margin="94,90,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txtNombre" Controls:TextBoxHelper.Watermark="Nombre Contacto" HorizontalAlignment="Left" Height="23" Margin="94,121,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txtMail" Controls:TextBoxHelper.Watermark="Mail Contacto" HorizontalAlignment="Left" Height="23" Margin="94,152,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txtAddress" Controls:TextBoxHelper.Watermark="Direccion" HorizontalAlignment="Left" Height="23" Margin="94,183,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="txtFono" Controls:TextBoxHelper.Watermark="Telefono" HorizontalAlignment="Left" Height="23" Margin="94,214,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+                    <Controls:Tile Background="#FFF9F9F9" Margin="391,132,182,191" Width="Auto" Height="Auto" BorderThickness="5" BorderBrush="#FF0CACAC" Title="Agregar" FontFamily="Comic Sans MS" TitleFontSize="15" Foreground="Black" FontWeight="Bold" Click="Tile_Click" RenderTransformOrigin="0.5,0.5" TextOptions.TextFormattingMode="Display" >
+                        <Controls:Tile.Effect>
+                            <DropShadowEffect BlurRadius="19"/>
+                        </Controls:Tile.Effect>
+                        <Image Source="Images/clients-png.png" Width="120" Height="50" Margin="100,0,0,0"></Image>
+                    </Controls:Tile>
+                    <ComboBox Controls:TextBoxHelper.Watermark="Tipo" x:Name="cmbTipo" Width="120" Margin="94,276,578,78"/>
+                    <ComboBox Controls:TextBoxHelper.Watermark="Actividad" x:Name="cmbActividad" Width="120" Margin="94,245,578,109"/>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="Buscar">
+                <Grid x:Name="Grid2_3">
+                    <TextBox x:Name="txtBuscarRut" Controls:TextBoxHelper.Watermark="Buscar Rut" Height="23" TextWrapping="Wrap" Width="120" Margin="10,10,84,344"/>
+                    <DataGrid x:Name="dgdClientes" HorizontalAlignment="Left" Height="360" Margin="135,10,0,0" VerticalAlignment="Top" Width="647" Grid.ColumnSpan="2"/>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="107*"/>
+                        <ColumnDefinition Width="289*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="Actualizar">
+                <Grid x:Name="Grid2_4">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="107*"/>
+                        <ColumnDefinition Width="289*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Controls:MetroTabItem>
+            <Controls:MetroTabItem Header="Eliminar">
+                <Grid x:Name="Grid2_5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="107*"/>
+                        <ColumnDefinition Width="289*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Controls:MetroTabItem>
+
+
+        </Controls:MetroTabControl>
+        <Button ToolTip="Cambiar a Alto Contraste" Margin="650,-21,122,423" Background="#FF00FFDC" BorderThickness="4,3,3,3" BorderBrush="Black" Click="Button_Click"/>
+        <Controls:Tile x:Name="Volver1" Background="#FFF9F9F9" Margin="579,0,146,390" Width="Auto" Height="Auto" BorderThickness="0" BorderBrush="#FF0CACAC" Title="Volver" FontFamily="Comic Sans MS" TitleFontSize="11" Foreground="Black" FontWeight="Bold" Click="Volver1_Click" RenderTransformOrigin="0.5,0.5" TextOptions.TextFormattingMode="Display" TiltFactor="0" >
+            <Controls:Tile.Effect>
+                <DropShadowEffect/>
+            </Controls:Tile.Effect>
+        </Controls:Tile>
+    </Grid>
+</Controls:MetroWindow>
