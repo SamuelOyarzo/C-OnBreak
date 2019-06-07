@@ -1,0 +1,15 @@
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll.config
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\OnBreak.Negocios.pdb
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\Break.Datos.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\Break.Datos.pdb
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\Break.Datos.dll.config
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.xml
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csprojAssemblyReference.cache
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CoreCompileInputs.cache
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.csproj.CopyComplete
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\OnBreak.Negocios\obj\Debug\OnBreak.Negocios.pdb
