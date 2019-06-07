@@ -1,0 +1,12 @@
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\Break.Datos.dll.config
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\Break.Datos.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\Break.Datos.pdb
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\EntityFramework.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\EntityFramework.xml
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\obj\Debug\Break.Datos.csproj.CoreCompileInputs.cache
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\obj\Debug\Break.Datos.csproj.CopyComplete
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\obj\Debug\Break.Datos.dll
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\obj\Debug\Break.Datos.pdb
+D:\Download\SolucionOnBreak0.12\SolucionOnBreak\Break.Datos\obj\Debug\Break.Datos.csprojAssemblyReference.cache
