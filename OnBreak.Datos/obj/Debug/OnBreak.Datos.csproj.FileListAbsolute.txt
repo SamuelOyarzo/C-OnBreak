@@ -1,0 +1,24 @@
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb
+C:\Users\IvySauR\Desktop\New folder (2)\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll.config
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.dll
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\OnBreak.Datos.pdb
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.dll
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.xml
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csprojAssemblyReference.cache
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CoreCompileInputs.cache
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.csproj.CopyComplete
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.dll
+C:\Users\IvySauR\Desktop\DEY3101-001D-E3\OnBreak\SolucionOnBreak\OnBreak.Datos\obj\Debug\OnBreak.Datos.pdb

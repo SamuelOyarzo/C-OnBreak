@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Break.Datos;
+using OnBreak.Datos;
 
 namespace OnBreak.Negocios
 {
     internal class Conexion
     {
-        private static OnBreakEntities _break;
+        public static OnBreakEntities _break;
         public static OnBreakEntities Break
         {
             get
@@ -22,7 +22,7 @@ namespace OnBreak.Negocios
             }
             set
             {
-                _break =value;
+                _break = value;
             }
         }
     }

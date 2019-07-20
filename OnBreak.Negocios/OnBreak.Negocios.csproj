@@ -4,14 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E675A50B-F3C5-46EF-9C73-A2FAFECFABB5}</ProjectGuid>
+    <ProjectGuid>{C5F60F23-B732-415F-ADE6-A29804D04323}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>OnBreak.Negocios</RootNamespace>
     <AssemblyName>OnBreak.Negocios</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,23 +51,20 @@
   <ItemGroup>
     <Compile Include="Cliente.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="Contrato.cs" />
     <Compile Include="Enumeradores.cs" />
     <Compile Include="Manejadora.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TipoEvento.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OnBreak.Datos\OnBreak.Datos.csproj">
+      <Project>{18314d3a-a6af-49ff-b566-2eaf09ead888}</Project>
+      <Name>OnBreak.Datos</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Connected Services\" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Break.Datos\Break.Datos.csproj">
-      <Project>{a2559965-f423-4ae8-882a-99e589320ec8}</Project>
-      <Name>Break.Datos</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
